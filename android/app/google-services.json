@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022619106170",
+    "firebase_url": "https://fir-pdf-3f3a4-default-rtdb.firebaseio.com",
+    "project_id": "fir-pdf-3f3a4",
+    "storage_bucket": "fir-pdf-3f3a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022619106170:android:ad16ca761c777fd9b134c3",
+        "android_client_info": {
+          "package_name": "com.example.FirebasePdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022619106170-gk505iiuhqvkesq95vfv8kqjp4gfb86f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh9rK8uqp8E4HsitTTj3r81YpsA-6NP0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022619106170-gk505iiuhqvkesq95vfv8kqjp4gfb86f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
