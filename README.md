@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+A BIG THANKS TO OUR SENIORS FOR PROVIDING US ALL THE HANDWRITTEN PDFS.
+ALSO, A BIG THANKS TO OUR PROFESSORS FOR PROVIDING US PDFS AND SLIDES.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
