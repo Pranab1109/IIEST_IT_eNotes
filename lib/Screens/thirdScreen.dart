@@ -62,15 +62,15 @@ class _ThirdScreenState extends State<ThirdScreen> {
                     },
                     child: Container(
                       decoration: BoxDecoration(
-                          // border: Border.all(
-                          //   color: Colors.white,
-                          //   width: 2,
-                          // ),
+                          border: Border.all(
+                            color: Colors.black87,
+                            width: 2,
+                          ),
                           boxShadow: [
                             BoxShadow(
-                              color: items.color,
-                              blurRadius: 8.0,
-                            ),
+                                color: items.color,
+                                blurRadius: 8.0,
+                                offset: Offset(5, 3)),
                           ],
                           color: items.color,
                           borderRadius: BorderRadius.only(
