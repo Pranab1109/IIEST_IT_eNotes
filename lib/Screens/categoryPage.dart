@@ -26,7 +26,6 @@ class _CategoryPageState extends State<CategoryPage> {
       "Communication Systems",
       "Computer Organisation and Architecture",
       "Computer Graphics",
-      "Formal language & Automata Theory",
       "Object Oriented System Design"
     ]),
     // Category(
